@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT481_Weaver_Unit2", "IT481_Weaver_Unit2.csproj", "{0113D468-EBCD-468C-93E8-8DB8DA058105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0113D468-EBCD-468C-93E8-8DB8DA058105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0113D468-EBCD-468C-93E8-8DB8DA058105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0113D468-EBCD-468C-93E8-8DB8DA058105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0113D468-EBCD-468C-93E8-8DB8DA058105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7A31EC1-BC17-4050-A504-934AF31200C1}
+	EndGlobalSection
+EndGlobal
